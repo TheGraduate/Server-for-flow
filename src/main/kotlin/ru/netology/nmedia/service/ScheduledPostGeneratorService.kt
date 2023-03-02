@@ -21,6 +21,7 @@ class ScheduledPostGeneratorService(
                 published = 0,
                 likedByMe = false,
                 likes = 0,
+
             )
         )
     }

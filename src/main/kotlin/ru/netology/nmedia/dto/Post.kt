@@ -13,6 +13,7 @@ data class Post(
     var shares: Int = 0,
     var views: Int = 0,
     var video: String = "0",
+    var hidden: Boolean = false,
     var attachment: Attachment? = null,
 )
 
